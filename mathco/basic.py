@@ -1,6 +1,6 @@
 # BASIC Commands Module
 
-class Basic():
+class Basic:
     """
     Basic Commands:
     Add - Add two numbers
@@ -16,7 +16,7 @@ class Basic():
         pass
 
     # ADD
-    def add(self, a , b):
+    def add(self, a, b):
         return a + b
 
     # SUBTRACT
